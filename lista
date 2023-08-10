@@ -1,0 +1,12 @@
+#EXTINF:-1,ESPN www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1,ESPN HD www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,ESPN 2 www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1,Deportes ESPN 3 www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+
